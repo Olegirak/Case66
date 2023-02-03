@@ -11,16 +11,16 @@ int GetDataFromUser(string message)
     Console.ResetColor();
     return result;
 }
-int SumNum(int n, int m, int sum)
+int SumNum(int n, int m)
 {
+    int sum =0;
     if (n <= m)
     {
-        sum = n + sum + SumNum(n + 1, m, sum);
+        sum = n  + SumNum(n + 1, m);
     }
     return sum;
 }
 
 int x = GetDataFromUser("Введите число N");
 int y = GetDataFromUser("Введите число M");
-int sum = 0;
-Console.WriteLine(SumNum(x, y, sum));
+Console.WriteLine(SumNum(x, y));
