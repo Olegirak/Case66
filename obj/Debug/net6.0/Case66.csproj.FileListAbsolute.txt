@@ -1,0 +1,15 @@
+C:\Geekbrain\Case66\bin\Debug\net6.0\Case66.exe
+C:\Geekbrain\Case66\bin\Debug\net6.0\Case66.deps.json
+C:\Geekbrain\Case66\bin\Debug\net6.0\Case66.runtimeconfig.json
+C:\Geekbrain\Case66\bin\Debug\net6.0\Case66.dll
+C:\Geekbrain\Case66\bin\Debug\net6.0\Case66.pdb
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.csproj.AssemblyReference.cache
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.AssemblyInfoInputs.cache
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.AssemblyInfo.cs
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.dll
+C:\Geekbrain\Case66\obj\Debug\net6.0\refint\Case66.dll
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.pdb
+C:\Geekbrain\Case66\obj\Debug\net6.0\Case66.genruntimeconfig.cache
+C:\Geekbrain\Case66\obj\Debug\net6.0\ref\Case66.dll
